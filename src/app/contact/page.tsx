@@ -35,7 +35,7 @@ const page = () => {
             Contact Us
           </h2>
           <p className="font-normal text-center md:text-lg text-neutral-300 max-w-lg mx-auto mb-6">
-            We're here to help with any questions about out courses, programs,
+            We are here to help with any questions about out courses, programs,
             or events. Reach out and let us know how we can assist you in your
             musical journey.
           </p>
@@ -61,7 +61,7 @@ const page = () => {
               className="bg-gradient-to-br relative group/btn from-black dark:from-zinc-900 dark:to-zinc-900 to-neutral-600 block dark:bg-zinc-800 w-full text-white rounded-md h-10 font-medium shadow-[0px_1px_0px_0px_#ffffff40_inset,0px_-1px_0px_0px_#ffffff40_inset] dark:shadow-[0px_1px_0px_0px_var(--zinc-800)_inset,0px_-1px_0px_0px_var(--zinc-800)_inset]"
               type="submit"
             >
-              Send Message &rarr;
+              Send Message
               <BottomGradient />
             </button>
           </div>
