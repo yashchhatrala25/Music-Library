@@ -36,3 +36,5 @@ This project demonstrates the development of a modern website using the Next.js 
 - Debugging and problem-solving
 
 I am eager to learn and grow as a web developer, and I am excited to share this project with the community.
+
+Watch Demo := https://nextmusicschool.netlify.app/
